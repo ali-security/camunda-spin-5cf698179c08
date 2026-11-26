@@ -27,7 +27,7 @@
     <commons.version>1.13.0</commons.version>
     <graal.js.version>21.1.0</graal.js.version>
     <groovy.version>2.4.13</groovy.version>
-    <jackson.version>2.15.2</jackson.version>
+    <jackson.version>2.18.11</jackson.version>
     <jackson-core.version>2.18.8</jackson-core.version>
     <jaxb-impl.version>2.3.6</jaxb-impl.version>
     <jruby.version>9.1.17.0</jruby.version>
